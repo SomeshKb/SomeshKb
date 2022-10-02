@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somesh Kumar Bhaskar</h1>
 
 
-- 🔭 I’m currently working on **Fire Detection using Drone Systems**
-
-- 🌱 I’m currently learning **Python Scikit Tensorflow**
 
 - 👯 I’m looking to collaborate on **any open source project.**
 
